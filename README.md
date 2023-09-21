@@ -6,19 +6,7 @@ Me chamo Andrew, tenho 22 anos, sou um desenvolvedor Back-End, com bastante conh
 
 ### Minhas Habilidades Técnicas
 
-- JavaScript
-- PHP
-- Java
-- Laravel
-- Spring Boot
-- Docker
-- MySQL
-- TypeScript
-- Vue Js
-- Node Js
-- Express
-- Tailwind CSS
-- React Js
+| PHP | Laravel | Java | Spring Boot | Node.js | Express.js | Vue.js | React.js | TypeScript | JavaScript | MySQL | MongoDB | Bootstrap | Tailwind CSS |
 
 ## Visite Meu LinkedIn
 
