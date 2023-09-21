@@ -7,9 +7,7 @@ function App() {
       <header>
         <Navbar />
       </header>
-      <main>
-
-      </main>
+      <main></main>
       <footer>
         <Rodape />
       </footer>
