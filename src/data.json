@@ -3,54 +3,64 @@
     {
       "id": 1,
       "nome": "Harry Potter e o Cálice de Fogo",
-      "ano_de_lancamento": 2005
+      "ano_de_lancamento": 2005,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvi7nEa0yNu-w7r1XIcOepmb7M88MLIztuQA&usqp=CAU"
     },
     {
       "id": 2,
       "nome": "Jogos Vorazes: A Esperança - Parte 1",
-      "ano_de_lancamento": 2014
+      "ano_de_lancamento": 2014,
+      "imagem_capa": "https://br.web.img3.acsta.net/pictures/14/09/26/22/42/410634.jpg"
     },
     {
       "id": 3,
       "nome": "Velozes e Furiosos 5: Operação Rio",
-      "ano_de_lancamento": 2011
+      "ano_de_lancamento": 2011,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFxR1uGaQcpvSFrpDMAutWNnAL7rmxrh1lg&usqp=CAU"
     },
     {
       "id": 4,
       "nome": "Gente Grande",
-      "ano_de_lancamento": 2010
+      "ano_de_lancamento": 2010,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9bGfR-slPBCOWJvRq7VlRR_LbFLbYOlR_g&usqp=CAU"
     },
     {
       "id": 5,
       "nome": "Esposa de Mentirinha",
-      "ano_de_lancamento": 2011
+      "ano_de_lancamento": 2011,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NyVJGP92X0J30_brZTUsc8wyUdzOjtm1GA&usqp=CAU"
     }
   ],
   "series": [
     {
       "id": 1,
       "nome": "Brooklyn Nine-Nine",
-      "ano_de_lancamento": 2013
+      "ano_de_lancamento": 2013,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUn3V1-BQOWz3x6yQ7471GddamgzSrAViKg&usqp=CAU"
     },
     {
       "id": 2,
       "nome": "The Flash",
-      "ano_de_lancamento": 2014
+      "ano_de_lancamento": 2014,
+      "imagem_capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYRUx2Or_qE6n2TCXUTrYlczEYJPYBr-qDw&usqp=CAU"
     },
     {
       "id": 3,
       "nome": "Supernatural",
-      "ano_de_lancamento": 2005
+      "ano_de_lancamento": 2005,
+      "imagem_capa": "https://m.media-amazon.com/images/I/91VI5oCnG+L._AC_UF894,1000_QL80_.jpg"
     },
     {
       "id": 4,
       "nome": "9-1-1",
-      "ano_de_lancamento": 2018
+      "ano_de_lancamento": 2018,
+      "imagem_capa": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/C18866B8F279BD2D60B2DBCA9EEA01F24ABAE4A3B7B19286C1054BC74D904529/scale?width=506&aspectRatio=2.00&format=jpeg"
     },
     {
       "id": 5,
       "nome": "Lúcifer",
-      "ano_de_lancamento": 2016
+      "ano_de_lancamento": 2016,
+      "imagem_capa": "https://upload.wikimedia.org/wikipedia/pt/1/13/Lucifer_Temporada_3_Poster.jpg"
     }
   ]
 }
