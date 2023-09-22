@@ -4,9 +4,11 @@ function Navbar() {
   return (
     <header>
       <nav className="bg-black text-white py-6 flex justify-between">
-        <span className="ml-6 text-orange-500 text-xl underline cursor-pointer">
-          GPSflix
-        </span>
+        <Link to="/">
+            <span className="ml-6 text-orange-500 text-xl underline cursor-pointer">
+              GPSflix
+            </span>
+        </Link>
         <div className="mr-3">
           <Link
             to="/"

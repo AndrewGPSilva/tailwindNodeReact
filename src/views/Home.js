@@ -1,4 +1,4 @@
-import Banner from "../components/Banner";
+import Banner from "../components/ComponentsHome/Banner";
 import Navbar from "../components/Navbar";
 import Rodape from "../components/Rodape";
 
