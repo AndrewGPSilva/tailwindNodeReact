@@ -13,3 +13,7 @@
 span {
   font-family: 'Croissant One', cursive;
 }
+
+#containerBanner {
+  border: 2px solid rgb(0, 0, 0);
+}

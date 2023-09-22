@@ -1,3 +1,4 @@
+import Banner from './components/Banner';
 import Navbar from './components/Navbar'
 import Rodape from './components/Rodape'
 
@@ -7,7 +8,12 @@ function App() {
       <header>
         <Navbar />
       </header>
-      <main></main>
+      <main>
+        <Banner 
+          image="bannerNovo"
+          extensao="png"
+        />
+      </main>
       <footer>
         <Rodape />
       </footer>
