@@ -14,13 +14,13 @@ function Navbar() {
             to="/"
             className="px-2.5 hover:bg-orange-500 hover:font-bold hover:text-black-500 py-2 rounded-xl hover:text-black hover:underline"
           >
-            INICIO
+            HOME
           </Link>
           <Link
             to="/watch"
             className="px-2.5 hover:bg-orange-500 hover:font-bold py-2 rounded-xl hover:text-black hover:underline"
           >
-            ASSISTIR
+            TO WATCH
           </Link>
         </div>
       </nav>
