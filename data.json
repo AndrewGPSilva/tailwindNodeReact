@@ -1,0 +1,66 @@
+  {
+    "filmes": [
+      {
+        "id": 1,
+        "nome": "Harry Potter e o Cálice de Fogo",
+        "ano_de_lancamento": 2005,
+        "imagem_de_capa": "harry_potter_e_o_calice_de_fogo.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Jogos Vorazes: A Esperança - Parte 1",
+        "ano_de_lancamento": 2014,
+        "imagem_de_capa": "jogos_vorazes_1.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Velozes e Furiosos 5: Operação Rio",
+        "ano_de_lancamento": 2011,
+        "imagem_de_capa": "velozes_e_furiosos_5.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Gente Grande",
+        "ano_de_lancamento": 2010,
+        "imagem_de_capa": "gente_grande_1.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Esposa de Mentirinha",
+        "ano_de_lancamento": 2011,
+        "imagem_de_capa": "esposa_de_mentirinha.jpg"
+      }
+    ],
+    "series": [
+      {
+        "id": 1,
+        "nome": "Brooklyn Nine-Nine",
+        "ano_de_lancamento": 2013,
+        "imagem_de_capa": "b99.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "The Flash",
+        "ano_de_lancamento": 2014,
+        "imagem_de_capa": "the_flash.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Supernatural",
+        "ano_de_lancamento": 2005,
+        "imagem_de_capa": "supernatural.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "9-1-1",
+        "ano_de_lancamento": 2018,
+        "imagem_de_capa": "911.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Lúcifer",
+        "ano_de_lancamento": 2016,
+        "imagem_de_capa": "lucifer.jpg"
+      }
+    ]
+  }
