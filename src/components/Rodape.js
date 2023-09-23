@@ -7,7 +7,7 @@ function Rodape() {
             <div>
                 <h1 className="ml-1">&copy; { anoAtual } Andrew Silva - Dev Back-End</h1>
             </div>
-            <div className='flex'>
+            <div className='flex' id='footerIcons'>
                 <a href='https://www.facebook.com/Andrew13G' target='blank'><p className='text-blue-900 text-2xl px-2.5 hover:bg-orange-400 hover:rounded-md'> <FaFacebook /> </p></a>
                 <a href='https://www.tiktok.com/@gps_drew_dev' target='blank'><p className='text-white text-2xl px-2.5 hover:bg-orange-400 hover:rounded-md'> <FaTiktok /> </p></a>
                 <a href='https://twitter.com/AndrewGPS13' target='blank'><p className='text-blue-500 text-2xl px-2.5 hover:bg-orange-400 hover:rounded-md'> <FaTwitter /> </p></a>

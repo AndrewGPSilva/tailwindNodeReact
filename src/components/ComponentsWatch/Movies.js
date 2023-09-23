@@ -11,7 +11,7 @@ export default function Movies() {
       <section>
         <div className="py-5">
           <h2 className="underline font-bold text-2xl text-emerald-400">Movies:</h2>
-          <div className="flex justify-center">
+          <div className="flex justify-center" id="containerMovies">
             {dados.filmes.map((movie) => (
               <Card
                 key={movie.id}
@@ -24,7 +24,7 @@ export default function Movies() {
         </div>
         <div className="py-5">
           <h2 className="underline font-bold text-2xl text-emerald-400">Series:</h2>
-          <div className="flex justify-center mb-5">
+          <div className="flex justify-center mb-5" id="containerMovies">
             {dados.series.map((serie) => (
               <Card
                 key={serie.id}
