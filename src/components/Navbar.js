@@ -17,6 +17,12 @@ function Navbar() {
             HOME
           </Link>
           <Link
+            to="/read"
+            className="px-2.5 underline hover:bg-orange-500 hover:font-bold py-2 rounded-xl hover:text-black hover:underline"
+          >
+            READ
+          </Link>
+          <Link
             to="/watch"
             className="px-2.5 underline hover:bg-orange-500 hover:font-bold py-2 rounded-xl hover:text-black hover:underline"
           >

@@ -12,14 +12,15 @@
 }
 
 span {
-  font-family: 'Croissant One', cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #containerBanner {
   border: 2px solid rgb(0, 0, 0);
 }
 
-#containerTitle h1 {
+#containerTitle h1,
+#containerLivros h1 {
   font-family: 'Skranji', cursive;
 }
 
