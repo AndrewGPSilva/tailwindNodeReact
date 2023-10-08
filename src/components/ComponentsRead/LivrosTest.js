@@ -5,7 +5,7 @@ export default function LivrosTest() {
   const [dados, setDados] = useState([]);
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:8080/livros")
+      .get("http://127.0.0.1:8000/api/livros")
       .then((response) => {
         setDados(response.data);
       })
@@ -25,15 +25,15 @@ export default function LivrosTest() {
         <div className="flex">
           {dados.map((dado) => (
             <div className="m-5 p-7">
-              <li key={dado.id} className="list-none">
+              <li key={dado.id} className="list-none p-1">
                 <img
-                  className="w-52 h-52"
+                  className="w-52 h-52 mx-2"
                   src={dado.imagem}
                   alt="Capa do Livro"
                 />
-                <p className="text-orange-500">Nome: <span className="text-white">{dado.nome}</span></p>
-                <p className="text-orange-500">Descrição: <span className="text-white">{dado.descricao}</span></p>
-                <p className="text-orange-500">Autor: <span className="text-white">{dado.autor}</span></p>
+                <p className="text-orange-500 my-2">Nome: <span className="text-white flex">{dado.nome}</span></p>
+                <p className="text-orange-500 my-2">Categoria: <span className="text-white flex">{dado.categoria}</span></p>
+                <p className="text-orange-500 my-2">Autor: <span className="text-white flex">{dado.autor}</span></p>
               </li>
             </div>
           ))}
